@@ -1,0 +1,3 @@
+pipelineType: "pythonexample"
+appname: "python-app"
+env: "dev"
